@@ -1,6 +1,5 @@
 import { RequestHandler } from 'express';
 import { Todo } from '../models/todo';
-import exp from 'constants';
 
 const TODOS: Todo[] = [];
 
